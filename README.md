@@ -3,4 +3,4 @@ Halo Perkenalkan nama saya Anddreas Fransisco, saya sedang menjalani program int
 Target Pembelajaran =
 - Menguasai perintah dasar Git.
 - Memahami alur kerja kolaborasi (Branching & Pull Request).
-- Mampu menangani merge conflict sederhana.
+- Mampu menangani merge conflict sederhana. 
